@@ -1,3 +1,7 @@
 {
-  "rewrites": [{ "source": "/api/(.*)", "destination": "/api/index.php" }]
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "status": 404, "dest": "/index.html" }
+  ]
 }
+
