@@ -11,7 +11,7 @@
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/abd-ulrahman/github-readme-stats" />
     </a>
     <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats">
-      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/master/graph/badge.svg" />
+      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/main/graph/badge.svg" />
     </a>
     <a href="https://github.com/abd-ulrahman/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats?color=0088ff" />
@@ -501,7 +501,7 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 #### :film_projector: [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
 > **Warning**
-> If you are on the [hobby (i.e. free)](https://vercel.com/pricing) Vercel plan, please make sure you change the `maxDuration` parameter in the [vercel.json](https://github.com/abd-ulrahman/github-readme-stats/blob/master/vercel.json) file from `30` to `10` (see [#1416](https://github.com/abd-ulrahman/github-readme-stats/issues/1416#issuecomment-950275476) for more information).
+> If you are on the [hobby (i.e. free)](https://vercel.com/pricing) Vercel plan, please make sure you change the `maxDuration` parameter in the [vercel.json](https://github.com/abd-ulrahman/github-readme-stats/blob/main/vercel.json) file from `30` to `10` (see [#1416](https://github.com/abd-ulrahman/github-readme-stats/issues/1416#issuecomment-950275476) for more information).
 
 Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you do not have to worry about anything. Click on the deploy button to get started!
 
@@ -520,7 +520,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
     ![](https://files.catbox.moe/b9oxey.png)
 4.  Sign in to GitHub and allow access to all repositories if prompted.
 5.  Fork this repo.
-6.  After forking the repo, open the [`vercel.json`](https://github.com/abd-ulrahman/github-readme-stats/blob/master/vercel.json#L5) file and change the `maxDuration` field to `10`.
+6.  After forking the repo, open the [`vercel.json`](https://github.com/abd-ulrahman/github-readme-stats/blob/main/vercel.json#L5) file and change the `maxDuration` field to `10`.
 7.  Go back to your [Vercel dashboard](https://vercel.com/dashboard).
 8.  To import a project, click the `Add New...` button and select the `Project` option.
     ![](https://files.catbox.moe/3n76fh.png)

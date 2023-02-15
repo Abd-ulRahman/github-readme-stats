@@ -8,7 +8,7 @@
       <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats">
-      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/master/graph/badge.svg" />
+      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/main/graph/badge.svg" />
     </a>
     <a href="https://github.com/abd-ulrahman/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats?color=0088ff" />

@@ -8,7 +8,7 @@ const LANGS_FILEPATH = "./src/common/languageColors.json";
 //@ts-ignore
 axios
   .get(
-    "https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml",
+    "https://raw.githubusercontent.com/github/linguist/main/lib/linguist/languages.yml",
   )
   .then((response) => {
     //and convert them to a JS Object
