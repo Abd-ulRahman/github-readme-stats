@@ -4,8 +4,8 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/actions">
-      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/workflows/Test/badge.svg" />
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/abd-ulrahman/github-readme-stats-abd-ulrahman" />
