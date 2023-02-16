@@ -74,7 +74,7 @@ Kopiere folgendes in deine Readme um die Statistiken zu benutzen.
 Passe den Wert des URL-Parameters `?username=` so an, dass dort dein GitHub-Nutzername steht.
 
 ```md
-[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 _Hinweis: Die Berechnung des Ranges basiert auf den jeweiligen Benutzerstatistiken, siehe [src/calculateRank.js](../src/calculateRank.js)_
@@ -86,7 +86,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 > Optionen: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["contribs","prs"])
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=["contribs","prs"])
 ```
 
 ### Symbole anzeigen
@@ -94,7 +94,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 Um Symbole anzuzeigen kann der URL-Parameter `show_icons=true` wie folgt verwendet werden:
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true)
 ```
 
 ### Erscheinungsbild/Themes
@@ -104,7 +104,7 @@ Mithilfe der eingebauten Themes kann das Aussehen der Karten verändern werden, 
 Benutze den `?theme=THEME_NAME`-Parameter wie folgt :-
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 ```
 
 #### Alle eingebauten Themes :-
@@ -191,19 +191,19 @@ Füge diesen Code in deine Readme-Datei ein und passe die Links an.
 Passe den Wert des URL-Parameters `?username=` so an, dass dort dein GitHub-Nutzername steht.
 Den Wert des URL-Parameters `?repo=` musst du so anpassen, dass dort der Namen deines Repositorys steht.
 
-Endpunkt: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
+Endpunkt: `api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Beispiele
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 Benutze die [show_owner](#anpassungenpersonalisierung) Variable, um den Nutzernamen des Repository-Eigentümers anzuzeigen.
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Top Programmiersprachen-Karte
 
@@ -216,10 +216,10 @@ _HINWEIS: Die Top Programmiersprachen treffen keine Aussage über persönliche F
 Füge diesen Code in deine Readme-Datei ein und passe die Links an.
 Passe den Wert des URL-Parameters `?username=` so an, dass dort dein GitHub-Nutzername steht.
 
-Endpunkt: `api/top-langs?username=abd-ulrahman`
+Endpunkt: `api/top-langs?username=Abd-ulRahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Verbirg einzelne Sprachen
@@ -227,7 +227,7 @@ Endpunkt: `api/top-langs?username=abd-ulrahman`
 Du kannst den `?hide=language1,language2` URL-Parameter benutzen, um einzelne Sprachen auszublenden.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Kompaktes Sprachen-Karte Layout
@@ -235,16 +235,16 @@ Du kannst den `?hide=language1,language2` URL-Parameter benutzen, um einzelne Sp
 Du kannst die `&layout=compact` Option nutzen, um das Kartendesign zu ändern.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Beispiel
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Kompaktes Layout
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Wakatime Wochen-Statistik
 
@@ -270,41 +270,41 @@ Du kannst die `&layout=compact` Option nutzen, um das Kartendesign zu ändern.
 
 - Default
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)
 
 - Ausblenden bestimmter Statistiken
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["contribs","issues"])
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=["contribs","issues"])
 
 - Symbole anzeigen
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["issues"]&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=["issues"]&show_icons=true)
 
 - Alle Beiträge anzeigen
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&include_all_commits=true)
 
 - Erscheinungsbild/Themes
 
 Wähle Eines von den [Standard-Themes](#themes)
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 
 - Farbverlauf
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Statistiken-Karte anpassen
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=Abd-ulRahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Repo-Karte(Extra-Pin) anpassen
 
-![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top Programmiersprachen
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -314,10 +314,10 @@ Wähle Eines von den [Standard-Themes](#themes)
 
 ```html
 <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=convoychat" />
 </a>
 ```
 

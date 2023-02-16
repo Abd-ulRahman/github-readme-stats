@@ -74,7 +74,7 @@
 `?username=` の値は、あなたの GitHub アカウントのユーザー名に変更してください。
 
 ```md
-[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 _Note: カードに表示されるランクはユーザの統計情報に基づいて計算されています。詳しくは、[src/calculateRank.js](../src/calculateRank.js)をご覧ください。_
@@ -86,7 +86,7 @@ _Note: カードに表示されるランクはユーザの統計情報に基づ�
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,prs)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=contribs,prs)
 ```
 
 ### プライベートリポジトリへのコミットをカウントする
@@ -98,7 +98,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 > Options: `&count_private=true`
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&count_private=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&count_private=true)
 ```
 
 ### アイコンを表示する
@@ -106,7 +106,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 クエリパラメータ `?show_icons=true` を使用することで、アイコンの表示が有効になります。
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true)
 ```
 
 ### テーマの変更
@@ -116,7 +116,7 @@ _Note: このプロジェクトを自分でデプロイしている場合、デ�
 `?theme=THEME_NAME` は以下のように使います。
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 ```
 
 #### 内蔵テーマの一覧
@@ -194,19 +194,19 @@ GitHub extra pins を使うと、GitHub の readme プロフィールを使っ�
 
 以下のコードをあなたの readme にコピー & ペーストし、リンクを変更してください。
 
-エンドポイント: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
+エンドポイント: `api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### デモ
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 リポジトリのオーナーのユーザー名を含める場合は、show_owner 変数を使用します。
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Top Languages Card
 
@@ -218,10 +218,10 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 以下のコードをあなたの readme にコピー & ペーストし、リンクを変更してください。
 
-エンドポイント: `api/top-langs?username=abd-ulrahman`
+エンドポイント: `api/top-langs?username=Abd-ulRahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 特定の言語を隠す
@@ -229,7 +229,7 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 クエリパラメータ `?hide=language1,language2` 使用することで、特定の言語を非表示にすることができます。
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### レイアウトをコンパクトにする
@@ -237,16 +237,16 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 クエリパラメータ `&layout=compact` を使用することで、カードのデザインを変更することができます。
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### デモ
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Compact layout の場合
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -254,41 +254,41 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 - デフォルト
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)
 
 - 特定の統計情報を隠す
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=contribs,issues)
 
 - アイコンを表示する
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=issues&show_icons=true)
 
 - コミット数の総数をカウントする
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&include_all_commits=true)
 
 - テーマの変更
 
 任意の[テーマ](#themes)を選択できます。
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 
 - グラデーション
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - stats card のカスタマイズ
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=Abd-ulRahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - repo card のカスタマイズ
 
-![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -298,10 +298,10 @@ _NOTE: Top languages は、ユーザのスキルレベルを示すものでは�
 
 ```html
 <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=convoychat" />
 </a>
 ```
 

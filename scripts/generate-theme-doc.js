@@ -17,7 +17,7 @@ With inbuilt themes, you can customize the look of the card without doing any ma
 Use \`?theme=THEME_NAME\` parameter like so :-
 
 \`\`\`md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&theme=dark&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&theme=dark&show_icons=true)
 \`\`\`
 
 ## Stats
@@ -47,10 +47,10 @@ Want to add a new theme? Consider reading the [contribution guidelines](../CONTR
 `;
 
 const createRepoMdLink = (theme) => {
-  return `\n[${theme}_repo]: https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&cache_seconds=86400&theme=${theme}`;
+  return `\n[${theme}_repo]: https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&cache_seconds=86400&theme=${theme}`;
 };
 const createStatMdLink = (theme) => {
-  return `\n[${theme}]: https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=${theme}`;
+  return `\n[${theme}]: https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=${theme}`;
 };
 
 const generateLinks = (fn) => {

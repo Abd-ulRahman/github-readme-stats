@@ -73,7 +73,7 @@ Copiez-collez ceci dans votre Markdown, et c'est tout. C'est simple !
 Remplacez la valeur `?username=` par le nom d'utilisateur de votre GitHub.
 
 ```md
-[![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 _Note: Les rangs sont calculés sur la base des statistiques de l'utilisateur, voir [src/calculateRank.js](../src/calculateRank.js)_
@@ -85,7 +85,7 @@ Pour masquer des statistiques spécifiques, vous pouvez passer un paramètre de 
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,prs)
+![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=contribs,prs)
 ```
 
 ### Ajouter le compte des contributions privées au compte des commits totaux
@@ -97,7 +97,7 @@ _Note: Si vous déployez vous-même ce projet, les contributions privées seront
 > Options: `&count_private=true`
 
 ```md
-![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&count_private=true)
+![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&count_private=true)
 ```
 
 ### Afficher les icônes
@@ -105,7 +105,7 @@ _Note: Si vous déployez vous-même ce projet, les contributions privées seront
 Pour activer les icônes, vous pouvez passer `show_icons=true` dans le paramètre de requête, comme ceci :
 
 ```md
-![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
+![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true)
 ```
 
 ### Thèmes
@@ -115,7 +115,7 @@ Avec les thèmes intégrés, vous pouvez personnaliser l'apparence de la carte s
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 ```
 
 #### Tous les thèmes intégrés :-
@@ -188,19 +188,19 @@ Et OUI ! Vous n'êtes plus limité à 6 dépôts épinglés.
 
 Copiez-collez ce code dans votre readme et modifiez les liens.
 
-Extrémité: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
+Extrémité: `api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Carte ReadMe](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Carte ReadMe](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Démo
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 Utiliser la variable [show_owner](#customization) pour inclure le nom d'utilisateur du propriétaire du dépôt.
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Carte des langages les + utilisés
 
@@ -212,10 +212,10 @@ _NOTE: Les langages affichés n'indiquent pas mon niveau de compétence ou quelq
 
 Copiez-collez ce code dans votre readme et modifiez les liens.
 
-Extrémité: `api/top-langs?username=abd-ulrahman`
+Extrémité: `api/top-langs?username=Abd-ulRahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Cacher certaines langages
@@ -223,7 +223,7 @@ Extrémité: `api/top-langs?username=abd-ulrahman`
 Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les langages individuels.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Carte compacte des langages
@@ -231,16 +231,16 @@ Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les 
 Vous pouvez utiliser l'option `&layout=compact` pour changer le style de la carte.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Démo
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Carte compacte
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -248,41 +248,41 @@ Vous pouvez utiliser l'option `&layout=compact` pour changer le style de la cart
 
 - Défaut
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)
 
 - Ne pas afficher des stats spécifiques
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=contribs,issues)
 
 - Afficher les icônes
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=issues&show_icons=true)
 
 - Inclure tous les commits
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&include_all_commits=true)
 
 - Thèmes
 
 Choisissez parmi l'un des [thèmes par défaut](#themes)
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 
 - Dégradé
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personnaliser la carte des stats
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=Abd-ulRahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Personnaliser la carte dépôt
 
-![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top Langages
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -292,10 +292,10 @@ En général, vous ne pourrez pas mettre les images côte à côte. Pour ce fair
 
 ```html
 <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=convoychat" />
 </a>
 ```
 

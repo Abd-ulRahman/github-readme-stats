@@ -102,7 +102,7 @@ Copy-paste this into your markdown content, and that is it. Simple!
 Change the `?username=` value to your GitHub username.
 
 ```md
-[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 > **Note**
@@ -115,7 +115,7 @@ You can pass a query parameter `&hide=` to hide any specific stats with comma-se
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,prs)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=contribs,prs)
 ```
 
 ### Adding private contributions count to total commits count
@@ -128,7 +128,7 @@ You can add the count of all your private contributions to the total commits cou
 > Options: `&count_private=true`
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&count_private=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&count_private=true)
 ```
 
 ### Showing icons
@@ -136,7 +136,7 @@ You can add the count of all your private contributions to the total commits cou
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true)
 ```
 
 ### Themes
@@ -146,7 +146,7 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes
@@ -159,8 +159,8 @@ You can look at a preview for [all available themes](./themes/README.md) or chec
 
 #### Responsive Card Theme
 
-[![AbdulRahman's GitHub stats-Dark](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-dark-mode-only)
-[![AbdulRahman's GitHub stats-Light](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-light-mode-only)
+[![AbdulRahman's GitHub stats-Dark](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-dark-mode-only)
+[![AbdulRahman's GitHub stats-Light](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-light-mode-only)
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
@@ -169,13 +169,13 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=transparent)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=transparent)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=transparent)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=transparent)
 
 </details>
 
@@ -184,13 +184,13 @@ We have included a `transparent` theme that has a transparent background. This t
 You can use the `bg_color` parameter to make any of [the available themes](./themes/README.md) transparent. This is done by setting the `bg_color` to a colour with a transparent alpha channel (i.e. `bg_color=00000000`):
 
 ```md
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&bg_color=00000000)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&bg_color=00000000)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&bg_color=00000000)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&bg_color=00000000)
 
 </details>
 
@@ -199,15 +199,15 @@ You can use the `bg_color` parameter to make any of [the available themes](./the
 You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) tags to switch the theme based on the user GitHub theme automatically. This is done by appending `#gh-dark-mode-only` or `#gh-light-mode-only` to the end of an image URL. This tag will define whether the image specified in the markdown is only shown to viewers using a light or a dark GitHub theme:
 
 ```md
-[![AbdulRahman's GitHub stats-Dark](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-dark-mode-only)
-[![AbdulRahman's GitHub stats-Light](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-light-mode-only)
+[![AbdulRahman's GitHub stats-Dark](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-dark-mode-only)
+[![AbdulRahman's GitHub stats-Light](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-light-mode-only)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-[![AbdulRahman's GitHub stats-Dark](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-dark-mode-only)
-[![AbdulRahman's GitHub stats-Light](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-light-mode-only)
+[![AbdulRahman's GitHub stats-Dark](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-dark-mode-only)
+[![AbdulRahman's GitHub stats-Light](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman#gh-light-mode-only)
 
 </details>
 
@@ -218,14 +218,14 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 ```html
 <picture>
 <source 
-  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true"
+  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true" />
+<img src="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true" />
 </picture>
 ```
 
@@ -234,14 +234,14 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 
 <picture>
 <source 
-  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true"
+  srcset="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true" />
+<img src="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true" />
 </picture>
 
 </details>
@@ -335,19 +335,19 @@ Yay! You are no longer limited to 6 pinned repositories.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
+Endpoint: `api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Top Languages Card
 
@@ -360,10 +360,10 @@ The top languages card shows a GitHub user's most frequently used top language.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/top-langs?username=abd-ulrahman`
+Endpoint: `api/top-langs?username=Abd-ulRahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Exclude individual repositories
@@ -371,7 +371,7 @@ Endpoint: `api/top-langs?username=abd-ulrahman`
 You can use the `&exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&exclude_repo=github-readme-stats-abd-ulrahman,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&exclude_repo=github-readme-stats-abd-ulrahman,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Hide individual languages
@@ -379,7 +379,7 @@ You can use the `&exclude_repo=repo1,repo2` parameter to exclude individual repo
 You can use `&hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Show more languages
@@ -387,7 +387,7 @@ You can use `&hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Compact Language Card Layout
@@ -395,16 +395,16 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 You can use the `&layout=compact` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 -   Compact layout
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Wakatime Week Stats
 
@@ -433,49 +433,49 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 -   Default
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman)
 
 -   Hiding specific stats
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=contribs,issues)
 
 -   Showing icons
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&hide=issues&show_icons=true)
 
 -   Customize Border Color
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&border_color=2e4058)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&border_color=2e4058)
 
 -   Include All Commits
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&include_all_commits=true)
 
 -   Themes
 
 Choose from any of the [default themes](#themes)
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&show_icons=true&theme=radical)
 
 -   Gradient
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 -   Customizing stats card
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=Abd-ulRahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -   Setting card locale
 
-![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&locale=es)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=Abd-ulRahman&locale=es)
 
 -   Customizing repo card
 
-![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 -   Top languages
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 -   WakaTime card
 
@@ -489,10 +489,10 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 
 ```html
 <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=Abd-ulRahman&repo=convoychat" />
 </a>
 ```
 
@@ -546,7 +546,7 @@ However, if you are using this project and are happy with it or just want to enc
 
 -   Giving proper credit when you use github-readme-stats-abd-ulrahman on your readme, linking back to it :D
 -   Starring and sharing the project :rocket:
--   [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+-   [![paypal.me/abd-ulrahman](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/abd-ulrahman) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
