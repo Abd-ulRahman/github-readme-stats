@@ -411,7 +411,7 @@ You can use the `&layout=compact` option to change the card design.
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 > **Note**:
@@ -419,13 +419,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ### Demo
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 -   Compact layout
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 * * *
 
@@ -479,7 +479,7 @@ Choose from any of the [default themes](#themes)
 
 -   WakaTime card
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 * * *
 
