@@ -4,17 +4,17 @@
  <p align="center">Obtenez des statistiques GitHub générées dynamiquement sur vos Readme !</p>
 </p>
   <p align="center">
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/actions">
+      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats">
-      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/main/graph/badge.svg" />
+    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman">
+      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman/branch/main/graph/badge.svg" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#démo">Voir la démo</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">Soumettre un bug</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">Soumettre un bug</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">Demander une nouveauté</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">Demander une nouveauté</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -73,7 +73,7 @@ Copiez-collez ceci dans votre Markdown, et c'est tout. C'est simple !
 Remplacez la valeur `?username=` par le nom d'utilisateur de votre GitHub.
 
 ```md
-[![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Les Stats GitHub de AbdulRahman](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 _Note: Les rangs sont calculés sur la base des statistiques de l'utilisateur, voir [src/calculateRank.js](../src/calculateRank.js)_
@@ -188,25 +188,25 @@ Et OUI ! Vous n'êtes plus limité à 6 dépôts épinglés.
 
 Copiez-collez ce code dans votre readme et modifiez les liens.
 
-Extrémité: `api/pin?username=abd-ulrahman&repo=github-readme-stats`
+Extrémité: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Carte ReadMe](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Carte ReadMe](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Démo
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 Utiliser la variable [show_owner](#customization) pour inclure le nom d'utilisateur du propriétaire du dépôt.
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Carte des langages les + utilisés
 
 La carte des langages principaux montre les langages les plus utilisés par les utilisateurs de GitHub.
 
-_NOTE: Les langages affichés n'indiquent pas mon niveau de compétence ou quelque chose comme ça, c'est une métrique GitHub de quelles langages j'ai le plus de code sur GitHub, c'est une nouvelle fonctionnalité de github-readme-stats_
+_NOTE: Les langages affichés n'indiquent pas mon niveau de compétence ou quelque chose comme ça, c'est une métrique GitHub de quelles langages j'ai le plus de code sur GitHub, c'est une nouvelle fonctionnalité de github-readme-stats-abd-ulrahman_
 
 ### Usage
 
@@ -215,7 +215,7 @@ Copiez-collez ce code dans votre readme et modifiez les liens.
 Extrémité: `api/top-langs?username=abd-ulrahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Cacher certaines langages
@@ -223,7 +223,7 @@ Extrémité: `api/top-langs?username=abd-ulrahman`
 Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les langages individuels.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Carte compacte des langages
@@ -231,16 +231,16 @@ Vous pouvez utiliser le paramètre `?hide=language1,language2` pour masquer les 
 Vous pouvez utiliser l'option `&layout=compact` pour changer le style de la carte.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Démo
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Carte compacte
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -278,11 +278,11 @@ Choisissez parmi l'un des [thèmes par défaut](#themes)
 
 - Personnaliser la carte dépôt
 
-![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Top Langages
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -291,8 +291,8 @@ Choisissez parmi l'un des [thèmes par défaut](#themes)
 En général, vous ne pourrez pas mettre les images côte à côte. Pour ce faire, vous pouvez utiliser cette approche :
 
 ```html
-<a href="https://github.com/abd-ulrahman/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats" />
+<a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
   <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
@@ -305,9 +305,9 @@ En général, vous ne pourrez pas mettre les images côte à côte. Pour ce fair
 
 Comme l'API GitHub ne permet que 5k requêtes par heure, il est possible que mon `https://github-readme-stats-abd-ulrahman.vercel.app/api` puisse atteindre le limiteur de débit. Si vous l'hébergez sur votre propre serveur Vercel, alors vous n'avez pas à vous soucier de quoi que ce soit. Cliquez sur le bouton de déploiement pour commencer !
 
-NOTE: Depuis [#58](https://github.com/abd-ulrahman/github-readme-stats/pull/58) nous devrions être en mesure de traiter plus de 5 000 demandes et ne pas avoir de problèmes de temps d'arrêt :D
+NOTE: Depuis [#58](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pull/58) nous devrions être en mesure de traiter plus de 5 000 demandes et ne pas avoir de problèmes de temps d'arrêt :D
 
-[![Deployer avec Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats)
+[![Deployer avec Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 <details>
  <summary><b> Guide pour la mise en place de Vercel  🔨 </b></summary>
@@ -336,7 +336,7 @@ Je mets open-source presque tout ce que je peux, et j'essaie de répondre à tou
 
 Cependant, si vous utilisez ce projet et que vous en êtes satisfait ou si vous voulez simplement m'encourager à continuer à créer, il y a quelques façons de le faire :-
 
-- Donner un crédit approprié lorsque vous utilisez github-readme-stats sur votre readme, avec un lien vers celui-ci :D
+- Donner un crédit approprié lorsque vous utilisez github-readme-stats-abd-ulrahman sur votre readme, avec un lien vers celui-ci :D
 - Mettre une étoile et partager le projet :rocket:
 - [![paypal.me/abd-ulrahman](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/abd-ulrahman) - Vous pouvez faire des dons uniques via PayPal. Je vais probablement acheter un ~~café~~ thé. :tea:
 

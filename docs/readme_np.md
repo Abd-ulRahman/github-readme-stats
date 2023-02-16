@@ -4,17 +4,17 @@
  <p align="center">पहुनु होस् द्य्नामिचल्ली गेनेरटे गितहब  रेअडमी सतत  </p>
 </p>
   <p align="center">
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/actions">
+      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats">
-      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/main/graph/badge.svg" />
+    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman">
+      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman/branch/main/graph/badge.svg" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#demo">डेमो हेर्नुहोस्</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">रिपोर्ट बग</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">रिपोर्ट बग</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">अनुरोध सुविधा</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">अनुरोध सुविधा</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -72,7 +72,7 @@ Copy-paste this into your markdown content, and that's it. Simple!
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
@@ -201,19 +201,19 @@ GitHub फाल्तु पिनले तपाइँलाए GitHub री
 
 कोदलाए  कपी- पेसेत  readme मा गर्नु होला र लिंक परिवतन गर्नु होला |
 
-Endpoint: `api/pin?username=abd-ulrahman&repo=github-readme-stats`
+Endpoint: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### डेमो 
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # टोप भाषा कार्ड 
 
@@ -227,7 +227,7 @@ _NOTE: टोप भाषाहरुले आफ्नो सिपलाए 
 Endpoint: `api/top-langs?username=abd-ulrahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Exclude individual repositories
@@ -235,7 +235,7 @@ Endpoint: `api/top-langs?username=abd-ulrahman`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&exclude_repo=github-readme-stats,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&exclude_repo=github-readme-stats-abd-ulrahman,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### कुनै भाषा चुपौनॆ तरिका 
@@ -243,7 +243,7 @@ You can use `?exclude_repo=repo1,repo2` parameter to exclude individual reposito
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### धेरॆ भाषाहरु हेर्नको लागि 
@@ -251,7 +251,7 @@ You can use `?hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### कम्प्याक्ट भाषा कार्ड ळयोउत 
@@ -259,30 +259,30 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 तपाइले `&layout=compact` ओप्तिओनपनि  कार्ड देसिग्न को लागि परहयोग गर्न सक्नु हुन्क्ष 
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### डेमो 
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Compact layout
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # वाका समय वीक स्तट्स 
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ###  डेमो
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -324,15 +324,15 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - रेपो कार्डलाई एडित गर्नु 
 
-![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - टोप भाषा 
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - वक समय कार्ड 
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -341,8 +341,8 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 तपाइले इमेजलाई सइद बय सइद  अलीग्न गर्न सक्नु हुदैन तेसैले येसरी गर्नु होस् :
 
 ```html
-<a href="https://github.com/abd-ulrahman/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats" />
+<a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
   <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
@@ -357,9 +357,9 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
  `https://github-readme-stats-abd-ulrahman.vercel.app/api` प्रोजेक्ट मा रेत्  लिमिट हुन सक्क्ष । तर तपाइले आफ्नै वेर्चेल सेर्वेर मा होस्ट गर्नु बाको छ बने यो प्रोब्लेम हुदैन।  
  होस्ट गर्ने तरिका यस पकारका षन ।
 
-NOTE: Since [#58](https://github.com/abd-ulrahman/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
+NOTE: Since [#58](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>

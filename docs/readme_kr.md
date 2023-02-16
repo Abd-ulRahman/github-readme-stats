@@ -4,17 +4,17 @@
  <p align="center">동적으로 생성되는 GitHub 사용량 통계를 여러분의 README 에 추가해보세요!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/actions">
+      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats">
-      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/main/graph/badge.svg" />
+    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman">
+      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman/branch/main/graph/badge.svg" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
     <br />
     <br />
@@ -29,9 +29,9 @@
   <p align="center">
     <a href="#미리보기">미리보기 확인</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">버그 제보하기</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">버그 제보하기</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">기능 추가 요청하기</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">기능 추가 요청하기</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -75,7 +75,7 @@
 `?username=` 속성의 값을 GitHub 계정의 사용자 명(닉네임)으로 바꿔주세요.
 
 ```md
-[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 _참고:_
@@ -219,19 +219,19 @@ GitHub 저장소 여분 핀을 이용하면, 6개 이상의 저장소 핀을 여
 
 이 코드를 복사해서 여러분의 README 에 넣고 링크를 변경해주세요.
 
-엔드 포인트: `api/pin?username=abd-ulrahman&repo=github-readme-stats`
+엔드 포인트: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 미리보기
 
-[![GitHub 저장소 핀 카드](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![GitHub 저장소 핀 카드](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 [show_owner](#커스터마이징) 속성을 통해 저장소 소유자의 닉네임 표시 여부를 설정할 수 있어요.
 
-[![GitHub 저장소 핀 카드](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats)
+[![GitHub 저장소 핀 카드](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # 언어 사용량 통계
 
@@ -248,7 +248,7 @@ _참고:
 엔드 포인트: `api/top-langs?username=abd-ulrahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 통계에서 제외할 저장소 지정하기
@@ -256,7 +256,7 @@ _참고:
 `?exclude_repo=repo1,repo2` 속성을 통해 특정 저장소를 제외할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&exclude_repo=github-readme-stats,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&exclude_repo=github-readme-stats-abd-ulrahman,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 통계에서 특정 언어 제외하기
@@ -264,7 +264,7 @@ _참고:
 `?hide=language1,language2` 속성을 통해 특정 언어를 제외할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 표시할 언어 수 지정하기
@@ -272,7 +272,7 @@ _참고:
 `&langs_count=` 속성을 통해 카드에 표시할 언어의 수를 지정할 수 있어요. (1-10 사이, 기본 값 : 5)
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 컴택트한 카드 레이아웃 설정하기
@@ -280,34 +280,34 @@ _참고:
 `&layout=compact` 속성을 통해 카드의 디자인을 변경할 수 있어요.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 미리보기
 
-[![언어 사용량 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - 컴팩트한 레이아웃
 
-[![언어 사용량 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Wakatime 주간 통계
 
 `?username=` 속성의 값을 [Wakatime](https://wakatime.com) 계정의 사용자 명(닉네임)으로 바꿔주세요.
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### 미리보기
 
-[![willianrod 님의 wakatime 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod 님의 wakatime 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
-[![willianrod 님의 wakatime 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod 님의 wakatime 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - 컴팩트한 레이아웃
 
-[![willianrod 님의 wakatime 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod 님의 wakatime 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -349,15 +349,15 @@ _참고:
 
 - 저장소 핀 커스터마이징하기
 
-![AbdulRahman 님의 GitHub 저장소 핀](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![AbdulRahman 님의 GitHub 저장소 핀](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - 언어 사용량 통계
 
-[![언어 사용량 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![언어 사용량 통계](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Wakatime 카드
 
-[![willianrod 님의 Wakatime 카드](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod 님의 Wakatime 카드](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -368,8 +368,8 @@ _참고:
 그럴땐, 이렇게 해보세요!
 
 ```html
-<a href="https://github.com/abd-ulrahman/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats" />
+<a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
   <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
@@ -387,9 +387,9 @@ GitHub API 가 시간 당 요청 개수를 5,000회로 제한한 뒤로,
 
 아래의 버튼을 이용해 직접 배포해보세요!
 
-참고: [#58](https://github.com/abd-ulrahman/github-readme-stats/pull/58) 풀 리퀘스트 이후로, 저희는 5,000 개 이상의 요청을 처리할 수 있게 됐어요. 더이상 서버 다운에 대한 걱정은 노놉! :D
+참고: [#58](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pull/58) 풀 리퀘스트 이후로, 저희는 5,000 개 이상의 요청을 처리할 수 있게 됐어요. 더이상 서버 다운에 대한 걱정은 노놉! :D
 
-[![Vercel 에 배포하기](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats)
+[![Vercel 에 배포하기](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 <details>
  <summary><b> 🔨 Vercel 세팅 가이드!   </b></summary>
@@ -424,7 +424,7 @@ GitHub API 가 시간 당 요청 개수를 5,000회로 제한한 뒤로,
 만족하시거나, 제가 이런 요소들을 만드는 데에 도움을 주고 싶으시다면,
 여러분께서 도와주실 수 있는 것들이 있어요!
 
-- github-readme-stats 를 README 에 표시하실 때 확실한 도움을 주세요! 이 저장소로 링크를 걸어주시면 돼요! :D
+- github-readme-stats-abd-ulrahman 를 README 에 표시하실 때 확실한 도움을 주세요! 이 저장소로 링크를 걸어주시면 돼요! :D
 - 이 프로젝트를 많이 공유해주시고, 즐겨찾기 해주세요! :rocket:
 - [![paypal.me/abd-ulrahman](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/abd-ulrahman) - PayPal 을 이용해 1회성 도네이션을 해주실 수 있어요. 아마도 전 ~~커피, 아... 아니~~ 차를 사서 마시겠죠? ㅎ; :tea:
 

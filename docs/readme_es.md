@@ -5,17 +5,17 @@
 </p>
 
   <p align="center">
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/actions">
+      <img alt="Tests Passing" src="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/workflows/Test/badge.svg" />
     </a>
-    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats">
-      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats/branch/main/graph/badge.svg" />
+    <a href="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman">
+      <img src="https://codecov.io/gh/abd-ulrahman/github-readme-stats-abd-ulrahman/branch/main/graph/badge.svg" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/abd-ulrahman/github-readme-stats-abd-ulrahman?color=0088ff" />
     </a>
     <br />
     <br />
@@ -30,9 +30,9 @@
   <p align="center">
     <a href="#ejemplo">Ver un ejemplo</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">Reportar un bug</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">Reportar un bug</a>
     ·
-    <a href="https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose">Solicitar una mejora</a>
+    <a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose">Solicitar una mejora</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français</a>
@@ -77,7 +77,7 @@ Copia y pega esto en el contenido de tu README.md y listo. ¡Simple!
 Cambia el valor de `?username=` al nombre de tu usuario de GitHub.
 
 ```md
-[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 _Nota: Los rangos disponibles son S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%) y B+ (todos). Los valores se calculan utilizando la [función de distribución acumulada](https://es.wikipedia.org/wiki/Funci%C3%B3n_de_distribuci%C3%B3n) utilizando commits, contribuciones, issues, estrellas, pull request, seguidores y repositorios propios. Puedes investigar más sobre la implementación en [src/calculateRank.js](../src/calculateRank.js)._
@@ -207,25 +207,25 @@ Los pines adicionales de GitHub le permiten fijar más de 6 repositorios en su p
 
 Copia y pegua este código en tu Readme y cambia los enlaces.
 
-Endpoint: `api/pin?username=abd-ulrahman&repo=github-readme-stats`
+Endpoint: `api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman`
 
 ```md
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Ejemplo
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 Utiliza la variable [show_owner](#customización) para incluir el nombre de usuario del propietario del repositorio.
 
-[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Readme Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&show_owner=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Tarjeta de Lenguajes Principales
 
 La tarjeta de lenguajes principales muestra los lenguajes principales del usuario de GitHub que se han utilizado principalmente.
 
-_NOTA: los lenguajes principales no indican mi nivel de habilidad o algo así, es una métrica de GitHub de los lenguajes que tengo más código en GitHub. Es una nueva característica de github-readme-stats_
+_NOTA: los lenguajes principales no indican mi nivel de habilidad o algo así, es una métrica de GitHub de los lenguajes que tengo más código en GitHub. Es una nueva característica de github-readme-stats-abd-ulrahman_
 
 ### Utilización
 
@@ -234,7 +234,7 @@ Copia y pegua este código en tu Readme y cambia los enlaces.
 Endpoint: `api/top-langs?username=abd-ulrahman`
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Excluir repositorios individualmente
@@ -242,7 +242,7 @@ Endpoint: `api/top-langs?username=abd-ulrahman`
 Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&exclude_repo=github-readme-stats,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&exclude_repo=github-readme-stats-abd-ulrahman,abd-ulrahman.github.io)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Ocultar lenguajes individualmente
@@ -250,7 +250,7 @@ Puedes usar el parámetro `?exclude_repo=repo1,repo2` para ocultar repositorios 
 Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes individualmente.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&hide=javascript,html)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Mostrar más lenguajes
@@ -258,7 +258,7 @@ Puedes usar el parámetro `?hide=language1,language2` para ocultar lenguajes ind
 Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el número de lenguajes mostrados en la tarjeta. Los valores admitidos son los números enteros entre 1 y 10 (inclusive), y el valor por defecto es 5.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&langs_count=8)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Diseño Compacto de Tarjeta de Lenguaje
@@ -266,34 +266,34 @@ Puedes usar el paramétro `&langs_count=` para incrementar o decrementar el núm
 Puedes usar la opción `& layout = compact` para cambiar el diseño de la tarjeta.
 
 ```md
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Ejemplo
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Diseño compacto
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 # Estadísticas de la semana de Wakatime
 
 cambia el valor del parámetro `?username=` a tu username en [Wakatime](https://wakatime.com).
 
 ```md
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 ```
 
 ### Ejemplo
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Diseño compacto
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -335,15 +335,15 @@ Escoja cualquiera de los [temas por defecto](#themes)
 
 - Personalizando Tarjeta de Repo
 
-![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats-abd-ulrahman.vercel.app/api/pin?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - Lenguajes Top
 
-[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 - Tarjeta de Wakatime
 
-[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=willianrod)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 ---
 
@@ -352,8 +352,8 @@ Escoja cualquiera de los [temas por defecto](#themes)
 Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para hacerlo, puede usar este enfoque:
 
 ```html
-<a href="https://github.com/abd-ulrahman/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats" />
+<a href="https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman">
+  <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman" />
 </a>
 <a href="https://github.com/abd-ulrahman/convoychat">
   <img align="center" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=convoychat" />
@@ -366,9 +366,9 @@ Por lo general, no podrás acomodar las imágenes una al lado de la otra. Para h
 
 Desde que la API de GitHub permite solo 5k peticiones por hora, es posible que mi `https://github-readme-stats-abd-ulrahman.vercel.app/api` pueda llegar al límite. Si lo alojas en tu propio servidor de Vercel, no tendrás que preocuparte de nada. ¡Clickea en el botón "Deploy" para comenzar!
 
-NOTA: Debido a [#58](https://github.com/abd-ulrahman/github-readme-stats/pull/58) podríamos manejar más de 5k peticiones sin tener ningún problema con el downtime :D
+NOTA: Debido a [#58](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/pull/58) podríamos manejar más de 5k peticiones sin tener ningún problema con el downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 <details>
  <summary>Guía para comenzar en Vercel</summary>
@@ -397,7 +397,7 @@ Casi todos mis proyectos son de código abierto e intento responder a todos los 
 
 No obstante, si estás utilizando este proyecto y estás feliz con él o simplemente quieres animarme a que siga creando cosas, aquí tienes algunas maneras de hacerlo:
 
-- Darme créditos cuando estés utilizando github-readme-stats en tu README, añadiendo un link a este repositorio :D
+- Darme créditos cuando estés utilizando github-readme-stats-abd-ulrahman en tu README, añadiendo un link a este repositorio :D
 - Dándole una estrella y compartiendo el proyecto :rocket:
 - [![paypal.me/abd-ulrahman](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/abd-ulrahman) - Puedes hacerme una única donación a través de PayPal. Probablemente me compraré un ~~café~~ té. :tea:
 

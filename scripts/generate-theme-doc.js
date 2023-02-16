@@ -41,13 +41,13 @@ ${STAT_CARD_LINKS_FLAG}
 ${REPO_CARD_LINKS_FLAG}
 
 
-[add-theme]: https://github.com/abd-ulrahman/github-readme-stats/edit/main/themes/index.js
+[add-theme]: https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/edit/main/themes/index.js
 
 Want to add a new theme? Consider reading the [contribution guidelines](../CONTRIBUTING.md#themes-contribution) :D
 `;
 
 const createRepoMdLink = (theme) => {
-  return `\n[${theme}_repo]: https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats&cache_seconds=86400&theme=${theme}`;
+  return `\n[${theme}_repo]: https://github-readme-stats-abd-ulrahman.vercel.app/api/pin/?username=abd-ulrahman&repo=github-readme-stats-abd-ulrahman&cache_seconds=86400&theme=${theme}`;
 };
 const createStatMdLink = (theme) => {
   return `\n[${theme}]: https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=${theme}`;

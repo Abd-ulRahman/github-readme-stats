@@ -1,22 +1,22 @@
 {
-  "name": "github-readme-stats",
+  "name": "github-readme-stats-abd-ulrahman",
   "version": "1.0.0",
   "description": "Dynamically generate stats for your GitHub readme",
   "keywords": [
-    "github-readme-stats",
+    "github-readme-stats-abd-ulrahman",
     "readme-stats",
     "cards",
     "card-generator"
   ],
   "main": "src/index.js",
   "type": "module",
-  "homepage": "https://github.com/abd-ulrahman/github-readme-stats",
+  "homepage": "https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman",
   "bugs": {
-    "url": "https://github.com/abd-ulrahman/github-readme-stats/issues"
+    "url": "https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abd-ulrahman/github-readme-stats.git"
+    "url": "https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman.git"
   },
   "scripts": {
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js --coverage",

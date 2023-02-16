@@ -1,4 +1,4 @@
-# Contributing to [github-readme-stats](https://github.com/abd-ulrahman/github-readme-stats)
+# Contributing to [github-readme-stats-abd-ulrahman](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
@@ -17,17 +17,17 @@ Pull requests are the best way to propose changes. We actively welcome your pull
 3.  If you've changed APIs, update the documentation.
 4.  Issue that pull request!
 
-## Under the hood of github-readme-stats
+## Under the hood of github-readme-stats-abd-ulrahman
 
-Interested in diving deeper into understanding how github-readme-stats works?
+Interested in diving deeper into understanding how github-readme-stats-abd-ulrahman works?
 
 [Bohdan](https://github.com/Bogdan-Lyashenko) wrote a fantastic in-depth post about it, check it out:
 
-**[Under the hood of github-readme-stats project](https://codecrumbs.io/library/github-readme-stats)**
+**[Under the hood of github-readme-stats-abd-ulrahman project](https://codecrumbs.io/library/github-readme-stats-abd-ulrahman)**
 
 ## Local Development
 
-To run & test github-readme-stats, you need to follow a few simple steps:-
+To run & test github-readme-stats-abd-ulrahman, you need to follow a few simple steps:-
 _(make sure you already have a [Vercel](https://vercel.com/) account)_
 
 1.  Install [Vercel CLI](https://vercel.com/download).
@@ -53,9 +53,9 @@ While creating the Pull request to add a new theme **don't forget to add a scree
 
 In short, when you submit changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report issues/bugs using GitHub's [issues](https://github.com/abd-ulrahman/github-readme-stats/issues)
+## Report issues/bugs using GitHub's [issues](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues)
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/abd-ulrahman/github-readme-stats/issues/new/choose); it's that easy!
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/new/choose); it's that easy!
 
 ## Frequently Asked Questions (FAQs)
 
@@ -67,16 +67,16 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 > **Ans:**
 >
-> -   docs: <https://github.com/abd-ulrahman/github-readme-stats/#deploy-on-your-own-vercel-instance>
+> -   docs: <https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/#deploy-on-your-own-vercel-instance>
 > -   YT tutorial by codeSTACKr: <https://www.youtube.com/watch?v=n6d4KHSKqGk&feature=youtu.be&t=107>
 
 **Q:** Language Card is incorrect
 
 > **Ans:** Please read all the related issues/comments before opening any issues regarding language card stats:
 >
-> -   <https://github.com/abd-ulrahman/github-readme-stats/issues/136#issuecomment-665164174>
+> -   <https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/136#issuecomment-665164174>
 >
-> -   <https://github.com/abd-ulrahman/github-readme-stats/issues/136#issuecomment-665172181>
+> -   <https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman/issues/136#issuecomment-665172181>
 
 **Q:** How to count private stats?
 
