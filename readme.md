@@ -411,7 +411,7 @@ You can use the `&layout=compact` option to change the card design.
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman)](https://github.com/Abd-ulRahman)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 > **Note**:
@@ -419,13 +419,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ### Demo
 
-[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman)](https://github.com/abd-ulrahman/Abd-ulRahman)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
-[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman&hide_progress=true)](https://github.com/abd-ulrahman/Abd-ulRahman)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Compact layout
 
-[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman&layout=compact)](https://github.com/abd-ulrahman/Abd-ulRahman)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
@@ -479,7 +479,7 @@ Choose from any of the [default themes](#themes)
 
 -   WakaTime card
 
-[![AbdulRahman's wakatime stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/wakatime?username=Abd-ulRahman)](https://github.com/abd-ulrahman/github-readme-stats-abd-ulrahman)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
