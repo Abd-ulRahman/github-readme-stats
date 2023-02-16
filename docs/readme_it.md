@@ -73,7 +73,7 @@ Per creare una Card con le statistiche GitHub, copia e incolla nel tuo file mark
 Ricorda di cambiare il valore `?username=` con il tuo nome utente GitHub.
 
 ```md
-[![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
 ```
 
 _Nota: I punteggi sono calcolati sulla base delle tue statistiche, dai un'occhiata a [src/calculateRank.js](../src/calculateRank.js) per ulteriori informazioni_
@@ -85,7 +85,7 @@ Per nascondere qualche dato, puoi aggiungere i parametri `?hide=`, separando i v
 > Opzioni: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,prs)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,prs)
 ```
 
 ### Includere i contributi privati nel computo totale
@@ -97,7 +97,7 @@ _Nota: se hai deciso di fare il deploy del progetto, i contributi privati verran
 > Opzioni: `&count_private=true`
 
 ```md
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&count_private=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&count_private=true)
 ```
 
 ### Mostrare le icone
@@ -105,7 +105,7 @@ _Nota: se hai deciso di fare il deploy del progetto, i contributi privati verran
 Per abilitare le icone, puoi specificare `show_icons=true`, ad esempio:
 
 ```md
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
 ```
 
 ### Temi
@@ -115,7 +115,7 @@ Esistono alcuni temi predefiniti coi quali è possibile personalizzare l'aspetto
 Usa il parametro `?theme=NOME_TEMA` in questo modo:-
 
 ```md
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
 ```
 
 #### Galleria dei temi:-
@@ -246,33 +246,33 @@ Puoi utilizzare l'opzione `&layout=compact` per cambiare l'aspetto della card.
 
 - Default
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
 
 - Nascondere dati specifici
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
 
 - Mostrare le icone
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
 
 - Includere tutti i commit
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
 
 - Temi
 
 Scegli uno dei [temi di default](#themes)
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
 
 - Gradiente
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Personalizzare le Stats Card
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Personalizzare le Repo Card
 

@@ -74,7 +74,7 @@ Kopiere folgendes in deine Readme um die Statistiken zu benutzen.
 Passe den Wert des URL-Parameters `?username=` so an, dass dort dein GitHub-Nutzername steht.
 
 ```md
-[![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
 ```
 
 _Hinweis: Die Berechnung des Ranges basiert auf den jeweiligen Benutzerstatistiken, siehe [src/calculateRank.js](../src/calculateRank.js)_
@@ -86,7 +86,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 > Optionen: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["contribs","prs"])
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["contribs","prs"])
 ```
 
 ### Symbole anzeigen
@@ -94,7 +94,7 @@ Um eine spezifische Statistik auszublenden, kann dem Query-Parameter `?hide=` ei
 Um Symbole anzuzeigen kann der URL-Parameter `show_icons=true` wie folgt verwendet werden:
 
 ```md
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
 ```
 
 ### Erscheinungsbild/Themes
@@ -104,7 +104,7 @@ Mithilfe der eingebauten Themes kann das Aussehen der Karten verändern werden, 
 Benutze den `?theme=THEME_NAME`-Parameter wie folgt :-
 
 ```md
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
 ```
 
 #### Alle eingebauten Themes :-
@@ -270,33 +270,33 @@ Du kannst die `&layout=compact` Option nutzen, um das Kartendesign zu ändern.
 
 - Default
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
 
 - Ausblenden bestimmter Statistiken
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["contribs","issues"])
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["contribs","issues"])
 
 - Symbole anzeigen
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["issues"]&show_icons=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=["issues"]&show_icons=true)
 
 - Alle Beiträge anzeigen
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
 
 - Erscheinungsbild/Themes
 
 Wähle Eines von den [Standard-Themes](#themes)
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
 
 - Farbverlauf
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - Statistiken-Karte anpassen
 
-![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![AbdulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Repo-Karte(Extra-Pin) anpassen
 

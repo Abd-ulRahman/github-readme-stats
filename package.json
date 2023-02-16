@@ -31,7 +31,7 @@
     "format:check": "prettier --check .",
     "prepare": "husky install"
   },
-  "author": "Abd-ulRahman Alkhamees",
+  "author": "AbdUlRahman Alkhamees",
   "license": "MIT",
   "devDependencies": {
     "@actions/core": "^1.9.1",

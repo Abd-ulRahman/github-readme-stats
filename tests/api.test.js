@@ -7,7 +7,7 @@ import { renderStatsCard } from "../src/cards/stats-card.js";
 import { CONSTANTS, renderError } from "../src/common/utils.js";
 
 const stats = {
-  name: "Abd-ulRahman Alkhamees",
+  name: "AbdUlRahman Alkhamees",
   totalStars: 100,
   totalCommits: 200,
   totalIssues: 300,
