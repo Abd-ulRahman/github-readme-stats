@@ -76,7 +76,7 @@ Copie e cole isso no seu conteúdo de remarcação e é isso. Simples!
 Mude o valor de `?username=` para o seu nome de usuário no GitHub.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
 ```
 
 _Nota: As classificações são baseadas nas estatísticas do usuário, veja [src/calculateRank.js](../src/calculateRank.js)_
@@ -88,7 +88,7 @@ Para ocultar estatísticas individualmente, você pode passar um parâmetro de c
 > Opções: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,prs)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,prs)
 ```
 
 ### Adicionando contagem de contribuições privadas à contagem total de commits
@@ -100,7 +100,7 @@ _Nota: Se você estiver implantando este projeto, as contribuições privadas se
 > Opções: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&count_private=true)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&count_private=true)
 ```
 
 ### Exibindo ícones
@@ -108,7 +108,7 @@ _Nota: Se você estiver implantando este projeto, as contribuições privadas se
 Para habilitar ícones, basta utilizar o parâmetro `show_icons=true` na sua requisição, da seguinte forma:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true)
 ```
 
 ### Temas
@@ -118,7 +118,7 @@ Com temas predefinidos, pode personalizar a aparência dos cartões sem precisar
 Utilize o parâmetro `?theme=THEME_NAME`, da seguinte forma:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
 ```
 
 #### Todos os temas predefinidos :
@@ -259,29 +259,29 @@ Altere o valor de `?username=` para o seu username do Wakatime.
 
 - Padronizado
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
 
 - Ocultando estatísticas específicas
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
 
 - Mostrando ícones
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
 
 - Incluir todos os commits
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
 
 - Temas
 
 Escolha entre um dos [temas predefinidos](#temas)
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&show_icons=true&theme=radical)
 
 - Personalizando o cartão de estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Customizando o cartão de repositório
 

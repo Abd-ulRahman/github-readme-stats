@@ -76,7 +76,7 @@ Alt kısımdaki kodu Kopyalayın ve yapıştırın. İşte bu kadar. Çok basit!
 `?username=` değerini kendi GitHub kullanıcı adınız ile değiştirin.
 
 ```md
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
+[![Abd-ulRahman'nın GitHub İstatistikleri](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)](https://github.com/abd-ulrahman/github-readme-stats)
 ```
 _Not: Şu sıralamalar mevcut: S+ (en üst 1%), S (en üst 25%), A++ (en üst 45%), A+ (en üst 60%), and B+ (herkes).
 Buradaki değerler [cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function) ile hesaplanırken; commitler, katkılar, hatalar, yıldızlar, çekme istekleri, takipçiler ve sahip olunan depolar (repository) göz önünde bulundurulamaktadır.
@@ -301,37 +301,37 @@ Endpoint: `api/top-langs?username=mustafacagri`
 
 - Varsayılan
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman)
 
 - Belirli istatistikler gizli
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=contribs,issues)
 
 - İkonlar gösteriliyor
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&hide=issues&show_icons=true)
 
 - Tüm commitler dahil
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&include_all_commits=true)
 
 - Temalar
 
 [default themes](#themes) adresinden istediğiniz temayı seçin.
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=mustafacagri&show_icons=true&theme=radical)
 
 - Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api?username=abd-ulrahman&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 - İstatistik Kartını Düzenleyin
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - Kartın dilini seçin
 
-![Anurag's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&locale=es)
+![Abd-ulRahman's GitHub stats](https://github-readme-stats-abd-ulrahman.vercel.app/api/?username=abd-ulrahman&locale=es)
 
 - Repo kartı düzenleyin
 

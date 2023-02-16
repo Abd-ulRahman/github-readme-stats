@@ -8,7 +8,7 @@ import { fetchStats } from "../src/fetchers/stats-fetcher.js";
 const data_stats = {
   data: {
     user: {
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       repositoriesContributedTo: { totalCount: 61 },
       contributionsCollection: {
         totalCommitContributions: 100,
@@ -112,7 +112,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 100,
       totalIssues: 200,
       totalPRs: 300,
@@ -142,7 +142,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 100,
       totalIssues: 200,
       totalPRs: 300,
@@ -174,7 +174,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 150,
       totalIssues: 200,
       totalPRs: 300,
@@ -201,7 +201,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 1050,
       totalIssues: 200,
       totalPRs: 300,
@@ -228,7 +228,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 1050,
       totalIssues: 200,
       totalPRs: 300,
@@ -253,7 +253,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 100,
       totalIssues: 200,
       totalPRs: 300,
@@ -278,7 +278,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 100,
       totalIssues: 200,
       totalPRs: 300,
@@ -303,7 +303,7 @@ describe("Test fetchStats", () => {
 
     expect(stats).toStrictEqual({
       contributedTo: 61,
-      name: "Anurag Hazra",
+      name: "Abd-ulRahman Alkhamees",
       totalCommits: 100,
       totalIssues: 200,
       totalPRs: 300,
